@@ -1,5 +1,5 @@
-# Vite + React + Tailwind + Eslint + Prettier (for json) + Biome + React router
+# Flexbox Common Usage Examples
 
-This template provides a minimal setup to get React working in Vite with HMR and my custom ESLint rules (using ezlint).
+This repo contains some of the most useful example you can achieve with flexbox.
 
-Vite config uses the SWC plugin for fast refreshes.
+Use this project as a reference on how to use it wisely.
